@@ -6,9 +6,9 @@
 #![allow(unused_mut)]
 #![allow(unused_imports)]
 
-// use learnRust::person::Person;
-// use learnRust::customer::Customer;
-use learnRust::{customer::Customer, person::Person, speaking::Speaking};
+// use rust_basic::person::Person;
+// use rust_basic::customer::Customer;
+use rust_basic::{customer::Customer, person::Person, speaking::Speaking};
 use std::collections::HashMap;
 
 fn main() {

@@ -8,7 +8,7 @@
 
 // use learnRust::person::Person;
 // use learnRust::customer::Customer;
-use learnRust::{customer::Customer, person::Person, speaking::Speaking};
+use learnRust::{customer::Customer, person::Person, speaking::S};
 use std::collections::HashMap;
 
 fn main() {
