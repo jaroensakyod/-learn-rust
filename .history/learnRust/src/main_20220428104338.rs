@@ -9,8 +9,6 @@
 
 // use learnRust::person::Person;
 // use learnRust::customer::Customer;
-use learnRust::{customer::Customer, person::Person};
-use std::collections::HashMap;
 fn main() {
     println!("Hello, world!");
     let x: i32 =10;
