@@ -1,0 +1,1 @@
+C:\Users\ASUS\Desktop\learn\ rust\rust_server\target\debug\rust_server.exe: C:\Users\ASUS\Desktop\learn\ rust\rust_server\src\http\mod.rs C:\Users\ASUS\Desktop\learn\ rust\rust_server\src\http\server.rs C:\Users\ASUS\Desktop\learn\ rust\rust_server\src\lib.rs C:\Users\ASUS\Desktop\learn\ rust\rust_server\src\main.rs
