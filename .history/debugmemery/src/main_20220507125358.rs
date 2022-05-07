@@ -74,7 +74,7 @@
 //         // Danger!
 fn main() {
           let string = no_dangle();
-          println!("{}", string);
+          println!()
       }
       
       fn no_dangle() -> String {
