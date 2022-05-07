@@ -19,25 +19,11 @@
 // }
 
 // borrowing n2 changes n1
-// fn main() {
-//           let mut n1 = 1;
-//           let n2 = &mut n1; //n2 borrows n1
-//           *n2 = 20;
-//           println!("{}", n1);
+fn main() {
+          let mut n1 = 1;
+          let n2 = &mut n1;
+
+          println!("{}", n1);
           
 
-// }
-
-// mutable borrows function
-// fn main() {
-//           let mut n1 = 1;
-//           hello(&mut n1);
-//           println!("{}",n1);
-
-
-// }
-// fn hello(a:&mut i32) {
-//           *a = 30;
-          
-// }
-
+}
