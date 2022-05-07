@@ -37,43 +37,16 @@
 //           println!("The result is {}", result);
 //       }
       
-// Conditional Loops with while
-// fn main() {
-//           let mut number = 8;
-      
-//           while number != 0 {
-//               println!("{}!", number);
-      
-//               number -= 1;
-//           }
-      
-//           println!("LIFTOFF!!!");
-//       }
 
-// Looping Through a Collection with for
-// fn main() {
-//           let a = [10, 20, 30, 40, 50];
-//           let mut index = 0;
-      
-//           while index < 5 {
-//               println!("the value is: {}", a[index]);
-      
-//               index += 1;
-//           }
-//       }
-// fn main() {
-//           let a = [10, 20, 30, 40, 50];
-      
-//           for element in a {
-//               println!("the value is: {}", element);
-//           }
-//       }
-      
-      
 fn main() {
-          for number in (1..=4).rev() {
+          let mut number = 8;
+      
+          while number != 0 {
               println!("{}!", number);
+      
+              number -= 1;
           }
+      
           println!("LIFTOFF!!!");
       }
       
