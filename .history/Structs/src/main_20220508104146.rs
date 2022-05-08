@@ -21,10 +21,5 @@ struct User {
           //     email: String::from("another@example.com"),
           //     sign_in_count: user1.sign_in_count,
           // };
-
-          let user2 = User {
-                    email: String::from("another@example.com"),
-                    ..user1
-          };
       }
       

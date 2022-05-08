@@ -25,6 +25,6 @@ struct User {
           let user2 = User {
                     email: String::from("another@example.com"),
                     ..user1
-          };
+           };
       }
       
